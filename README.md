@@ -12,5 +12,5 @@ Unity English resume: https://github.com/More02/Portfolio/blob/master/Bakanova_U
 
 Java resume: https://github.com/More02/Portfolio/blob/master/Баканова_Java.pdf
 
-3D modeler: https://github.com/More02/Portfolio/blob/master/Баканова_3Dmodel.pdf
+3D modeler resume: https://github.com/More02/Portfolio/blob/master/Баканова_3Dmodel.pdf
 
